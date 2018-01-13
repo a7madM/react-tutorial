@@ -1,0 +1,17 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "repository": "https://github.com/a7madM/react-tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tuts",
+    "react"
+  ],
+  "author": "a7madM",
+  "license": "ISC"
+}
